@@ -97,14 +97,6 @@ These experiences have strengthened my abilities in problem decomposition, algor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teloon0805&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Email: **teloon0805@gmail.com**
