@@ -1,4 +1,4 @@
-<h1 align="center">**Hi there, I'm Chenglong Tian **👋</h1>
+<h1 align="center">Hi there, I'm Chenglong Tian 👋</h1>
 
 <p align="center">
   Software Engineering Undergraduate | AIGC | Artificial Intelligence | Multimodal | Embodied AI | Agent Systems
