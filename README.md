@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:284450392@qq.com">
-    <img src="https://img.shields.io/badge/Email-284450392%40qq.com-blue?style=flat-square&logo=gmail" />
+  <a href="mailto:teloon0805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-teloon0805%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=teloon0805&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
@@ -97,34 +97,17 @@ These experiences have strengthened my abilities in problem decomposition, algor
 
 ---
 
-## 📂 Selected Work
-
-### Multibeam Survey Line Optimization
-Research on intelligent partitioning and hybrid optimization algorithms for improving survey line planning and coverage efficiency in complex terrain.
-
-### NIPT Data Analysis and Modeling
-Applied regression analysis, clustering, and Logistic regression to optimize detection timing and improve abnormality classification.
-
-### AIGC Audiovisual Project
-Completed a full AIGC workflow including script generation, character LoRA training, storyboard design, video generation, and audio processing.
-
-### Patent Work
-Participated in technical solution design and core algorithm development for a national invention patent on multibeam survey line layout optimization.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=teloon0805&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teloon0805&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teloon0805&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Email: **284450392@qq.com**
+- Email: **teloon0805@gmail.com**
 - GitHub: **https://github.com/teloon0805**
 
 ---
