@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-static.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg">
-  <img src="assets/hero.svg" width="100%" alt="E7ian · 田承龙｜水下视觉、遥感多模态与对抗鲁棒性。已保研至西安电子科技大学，2027 年 9 月入学。">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-static.svg?v=ink2">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg?v=ink2">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg?v=ink2">
+  <img src="assets/hero.svg?v=ink2" width="100%" alt="E7ian · 田承龙｜水下视觉、遥感多模态与对抗鲁棒性。本科曲阜师范大学软件工程；硕士西安电子科技大学电子科学与技术。">
 </picture>
 
 <p align="center">
@@ -17,21 +17,21 @@
 
 你好，我是**田承龙**，也可以叫我 **E7ian**。
 
-目前就读于**曲阜师范大学网络空间安全学院，软件工程专业**，已保研至**西安电子科技大学电子工程学院，电子科学与技术专业硕士**，预计 **2027 年 9 月入学**。
+<p>本科｜<strong>曲阜师范大学 · 软件工程</strong><br>硕士｜<strong>西安电子科技大学 · 电子科学与技术</strong></p>
 
 我从多波束测深的地形建模与测线优化开始接触科研，也做过低光照稀疏视角的三维重建。接下来，希望把研究重点放在**水下视觉与目标识别、遥感多模态大模型、对抗攻击与模型鲁棒性**。
 
 <p>
-  <a href="mailto:13774949997@163.com"><img src="assets/contact.svg" height="38" alt="邮箱：13774949997@163.com"></a>
+  <a href="mailto:13774949997@163.com"><img src="assets/contact.svg?v=ink2" height="38" alt="邮箱：13774949997@163.com"></a>
 </p>
 
-<sub>Incoming M.Sc. student at Xidian University · Software Engineering undergraduate at Qufu Normal University.</sub>
+<sub>Software Engineering · Qufu Normal University / Electronic Science and Technology · Xidian University.</sub>
 
-## 研究主线 Research
+<h2 align="center">研究主线 <sub>Research</sub></h2>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/research-mobile.svg">
-  <img src="assets/research.svg" width="100%" alt="三个研究重点：水下视觉与目标识别、遥感多模态大模型、对抗攻击与模型鲁棒性。">
+  <source media="(max-width: 600px)" srcset="assets/research-mobile.svg?v=ink2">
+  <img src="assets/research.svg?v=ink2" width="100%" alt="三个研究重点：水下视觉与目标识别、遥感多模态大模型、对抗攻击与模型鲁棒性。">
 </picture>
 
 - **水下视觉与目标识别**：研究生阶段希望深入的方向。目前通过 [UTDR](https://github.com/teloon0805/UTDR) 记录机器学习、图像识别与检测的学习过程。
@@ -46,8 +46,8 @@
 
 <a href="https://doi.org/10.1016/j.oceaneng.2026.129024">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/multibeam-mobile.svg">
-  <img src="assets/multibeam-overview.svg" width="100%" alt="多波束测深论文案例：几何覆盖率 98.81%，漏测率 1.19%，总测线长度 449.33 km。左侧为原创方法示意。">
+    <source media="(max-width: 600px)" srcset="assets/multibeam-mobile.svg?v=ink2">
+  <img src="assets/multibeam-overview.svg?v=ink2" width="100%" alt="多波束测深论文案例：几何覆盖率 98.81%，漏测率 1.19%，总测线长度 449.33 km。左侧为原创方法示意。">
   </picture>
 </a>
 
@@ -130,4 +130,4 @@
 
 欢迎通过 [**13774949997@163.com**](mailto:13774949997@163.com) 交流研究问题、学习记录，或好玩的创作想法。
 
-<img src="assets/footer.svg" width="100%" alt="保持好奇，继续下潜。E7ian / teloon0805">
+<img src="assets/footer.svg?v=ink2" width="100%" alt="田承龙 · E7ian">
